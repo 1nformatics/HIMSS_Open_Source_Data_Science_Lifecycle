@@ -1,2 +1,6 @@
-# HIMSS_Open_Source_Data_Science_Lifecycle
-Supporting materials for HIMSS 2020 Presentation
+# HIMSS Open Source Advanced Analytics Presentation Materials
+## Data Ingestion
+## Data Governance
+## Data Modeling
+## Visualization
+## Model Deployment
