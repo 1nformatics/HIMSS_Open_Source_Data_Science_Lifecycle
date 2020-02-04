@@ -1,4 +1,4 @@
-# HIMSS Open Source Advanced Analytics Presentation Materials
+# HIMSS Advanced Analytics Materials
 ## Data Ingestion
 ## Data Governance
 ## Data Modeling
